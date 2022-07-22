@@ -1,1 +1,2 @@
-# CCAT DISCORD BOT
+# Install the Packages
+- Test
